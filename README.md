@@ -14,14 +14,10 @@ Veridi Logistics has a systemic delivery accuracy problem affecting customer sat
 
 | Deliverable | Link |
 |---|---|
-| 📓 **Notebook (Google Colab)** | [View Notebook →](https://colab.research.google.com/drive/YOUR_LINK_HERE) |
-| 📊 **Dashboard (Tableau Public)** | [View Dashboard →](https://public.tableau.com/views/YOUR_LINK_HERE) |
-| 📑 **Presentation (PDF/Slides)** | [View Slides →](YOUR_SLIDES_LINK_HERE) |
-| 🎥 **Video Walkthrough (Optional)** | [Watch on YouTube →](YOUR_VIDEO_LINK_HERE) |
-
-> ⚠️ **Before submitting:** Replace all `YOUR_LINK_HERE` placeholders with your real public links. Test each link in an Incognito/Private window to confirm no login is required.
-
----
+|  **Notebook (Google Colab)** | [View Notebook →](https://colab.research.google.com/drive/YOUR_LINK_HERE) |
+|  **Dashboard (Tableau Public)** | [View Dashboard →](https://public.tableau.com/views/YOUR_LINK_HERE) |
+|  **Presentation (PDF/Slides)** | [View Slides →](YOUR_SLIDES_LINK_HERE) |
+|  **Video Walkthrough (Optional)** | [Watch on YouTube →](YOUR_VIDEO_LINK_HERE) |
 
 ## C. Technical Explanation
 
@@ -109,7 +105,7 @@ veridi-logistics-audit/
 ├── presentation/
 │   └── veridi_delivery_audit.pptx  ← Slide deck
 │
-├── data/                            ← ⛔ NOT committed (in .gitignore)
+├── data/                            ←  NOT committed (in .gitignore)
 │   ├── olist_orders_dataset.csv
 │   ├── olist_order_reviews_dataset.csv
 │   ├── olist_customers_dataset.csv
